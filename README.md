@@ -8,7 +8,7 @@ CS graduate with hands-on experience in Linux server administration, Docker cont
 
 ### Currently building
 
-- Containerized deployment pipeline for [fleetlane-lite](https://github.com/amiine-snoussi/fleetlane-lite) — FastAPI + PostgreSQL + nginx + Docker Compose + GitHub Actions CI/CD + Prometheus/Grafana monitoring
+- Containerized deployment pipeline for [fleetlane-lite](https://github.com/amiine-snoussi/fleetlane-lite) — FastAPI + SQLite + nginx + Docker Compose + GitHub Actions CI/CD + Prometheus/Grafana monitoring
 - Production Bash scripts for server administration — [bash-sysadmin-toolkit](https://github.com/amiine-snoussi/bash-sysadmin-toolkit)
 - AWS infrastructure provisioned with Terraform — [terraform-aws-infra](https://github.com/amiine-snoussi/terraform-aws-infra)
 
