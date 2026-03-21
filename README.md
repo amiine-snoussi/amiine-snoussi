@@ -39,4 +39,4 @@ Terraform provisions → Ansible hardens → Docker deploys → Prometheus monit
 
 **Certifications:** AWS Solutions Architect Associate (in progress)
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amine-snoussi-/) · snoussi.amine@courrier.uqam.caA
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amine-snoussi-/) · snoussi.amine@courrier.uqam.ca
