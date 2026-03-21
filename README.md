@@ -8,12 +8,12 @@ CS graduate (UQAM) with hands-on experience in Linux administration, Docker cont
 
 ### What I work with
 
-**Infrastructure** · Linux (Ubuntu/Debian), Docker, Docker Compose, nginx, systemd, SSH
-**CI/CD** · GitHub Actions, automated testing, container security scanning (Trivy)
-**IaC & Config Mgmt** · Terraform, Ansible
-**Cloud** · AWS (EC2, VPC, IAM, S3, RDS)
-**Monitoring** · Prometheus, Grafana, Node Exporter
-**Scripting** · Python, Bash
+**Infrastructure** · Linux (Ubuntu/Debian), Docker, Docker Compose, nginx, systemd, SSH\
+**CI/CD** · GitHub Actions, automated testing, container security scanning (Trivy)\
+**IaC & Config Mgmt** · Terraform, Ansible\
+**Cloud** · AWS (EC2, VPC, IAM, S3, RDS)\
+**Monitoring** · Prometheus, Grafana, Node Exporter\
+**Scripting** · Python, Bash\
 **Other** · Git, FastAPI, PostgreSQL, SQLite
 
 ---
@@ -30,12 +30,7 @@ CS graduate (UQAM) with hands-on experience in Linux administration, Docker cont
 | [qc-french-first](https://github.com/amiine-snoussi/qc-french-first) | Python tool to scan and enforce French-first language compliance for Quebec Bill 96 |
 
 ### How it all connects
-
-
 Terraform provisions → Ansible hardens → Docker deploys → Prometheus monitors
-
-
-
 
 **Certifications:** AWS Solutions Architect Associate (in progress)
 
